@@ -14,7 +14,7 @@ If you are new to programming, we recommend using Javascript/Typescript resource
 
 ## Javascript & Typescript
 
-![https://skillicons.dev/icons?i=js,ts]()
+![](https://skillicons.dev/icons?i=js,ts)
 
 ### aitum-cc
 Aitum-CC is our first-party wrapper to remove the need for custom implementation to start writing your own CC Actions.
@@ -37,18 +37,18 @@ You can also register CC actions using aitum.js, but the process is a lot more i
 
 ## .NET (C# etc)
 
-![https://skillicons.dev/icons?i=c,cs,cpp,dotnet]()
+![](https://skillicons.dev/icons?i=c,cs,cpp,dotnet)
 
 A library is currently in the works, check back soon!
 
 ## Python
 
-![https://skillicons.dev/icons?i=py]()
+![](https://skillicons.dev/icons?i=py)
 
 A library is currently in the works, check back soon!
 
 ## Java/Kotlin
 
-![https://skillicons.dev/icons?i=java,kotlin]()
+![](https://skillicons.dev/icons?i=java,kotlin)
 
 A library is currently in the works, check back soon!
