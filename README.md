@@ -29,11 +29,7 @@ Aitum.JS is our first party API wrapper. It provides access to all supported dev
 
 You can also register CC actions using aitum.js, but the process is a lot more involved and we strongly advise using [aitum-cc](https://github.com/aitum/aitum-cc) instead.
 
-[Visit the aitum.js repo](https://github.com/aitum/aitum.js) | [Visit aitum.js on npm](https://www.npmjs.com/package/aitum.js)
-
-<a href="https://www.npmjs.com/package/aitum.js">
-    <img alt="npm" src="https://img.shields.io/npm/v/aitum.js?style=flat-square">
-</a>
+[Visit the aitum.js repo](https://github.com/aitum/aitum.js) | [Visit aitum.js on npm ![](https://img.shields.io/npm/v/aitum.js?style=flat-square)](https://www.npmjs.com/package/aitum.js)
 
 ## .NET (C# etc)
 
