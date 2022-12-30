@@ -33,9 +33,9 @@ You can also register CC actions using aitum.js, but the process is a lot more i
 
 [Visit the aitum.js repo](https://github.com/aitum/aitum.js) | [Visit aitum.js on npm](https://www.npmjs.com/package/aitum.js)
 
-## .NET (C# etc)
+## .NET (C#, Visual Basic)
 
-[![](https://skillicons.dev/icons?i=c,cs,cpp,dotnet)](#)
+[![](https://skillicons.dev/icons?i=cs,dotnet)](#)
 
 A library is currently in the works, check back soon!
 
